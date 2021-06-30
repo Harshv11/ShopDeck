@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "999064915334",
+    "firebase_url": "https://shopdeck-267c3-default-rtdb.firebaseio.com",
+    "project_id": "shopdeck-267c3",
+    "storage_bucket": "shopdeck-267c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999064915334:android:62b210b80ff3ca51eb7007",
+        "android_client_info": {
+          "package_name": "com.example.shopdeck"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999064915334-q0nd98tp3pgdhk57e0e53f1ugkphm22a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shopdeck",
+            "certificate_hash": "f0973049f1e06a3c3038dd288734bc841849ddb6"
+          }
+        },
+        {
+          "client_id": "999064915334-fiobshlmagk5mfef02b1g4k3968p62t8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTIHNAqNDViDycRvaAyRwGhwHuLRj5f58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "999064915334-fiobshlmagk5mfef02b1g4k3968p62t8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
